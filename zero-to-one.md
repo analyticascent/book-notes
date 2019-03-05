@@ -152,4 +152,77 @@
 * **Flatness:** Given globalization, many think someone out there has already found given secret, or will soon
 * The only optimistic result of these trends are that it's now far harder to start a cult
 * Saying we live in a world of no secrets is to also imply that there are no hidden injustices either
-* 
+* HP's decline can largely be attributed to not continuing the production of new products, mostly consulting
+* Tom Perkins believed HP should identify promising new technologies, Patricia Dunn thought otherwise
+* Collaborative consumption apps/services saw dormant capital as an untapped secret, not just reinvention
+* Two kinds of secrets - secrets of nature (math/physics/chem/bio) and secrets about people (don't know or hide)
+* Secrets about people underappreciated in part because heavy education isn't necessary to find/know them
+* Fields that matter but haven't been standardized/institutionalized often contain secrets worth finding
+* Unless your beliefs are conventional, it's normally not a good idea to tell everyone everything you know
+* Only tell people those secrets on a need-to-know basis, best firms built around secrets hidden from outside
+
+&nbsp;
+
+### 9. Foundations:
+
+* Thiel's law: *a startup messed up at the foundations cannot be fixed later on
+* Most crucial decision will be who your co-founder is, must be compatible in the long-term
+* When investing in a startup, Thiel studies the founding teams: what they know, how they work together
+* **Anticipating sources of misalignment among company employees:**
+    1. Ownership: usually in the form of equity
+    2. Possession: who runs the firm on a day-by-day basis
+    3. Control: who governs the affairs of the company
+* Ownership among founders/employees/investors, possion by managers/employees, board of founders/investors control
+* DMV dysfunctional because public "ownership" is nothing but, accountable to no one and misaligned with everyone
+* Big firms prone to misalignment, early-stage startups small enough for founders to have ownership and possession
+* Smaller board sizes are ideal for alignment, but small size means they can oppose management if conflict arises
+* Board of three ideal, not to exceed five - but public companies must follow government mandates for board size
+* Everyone should 100% commit to firm (stock options, regular salary), exceptions include lawyers and accountants
+* Consultants, part-time employees, etc biased to claim value in near-term and not future company growth
+* Startups often do better the less they pay the CEO, *under $150K* is ideal otherwise they'll favor status quo
+* Low CEO pay sets standard for everyone else, emphasizing non-cash compensation emphasizes long-term growth
+* Equity should not be *equally* distributed, it's arbitrary and doesn't reflect individual differences/circumstances
+* Not possible to be 100% fair with equity allocation, early employees risk more, keep ownership stake secret
+* Equity is tied to a specific company and the growth of that company over time, dedicated people will prefer it
+* If you get the founding moment right, you can go beyond a valuable company and beyond inherited success
+
+&nbsp;
+
+### 10. The Mechanics of Mafia:
+
+* Company culture should not be reducible to just the absurd perks that Silicon Valley firms are known for
+* **Paypal Mafia:** All later founded/co-founded companies worth over a billion each
+    1. **Elon Musk:** SpaceX and Tesla
+    2. **Reid Hoffman:** LinkedIn
+    3. **Steve Chen, Chad Hurley, Jawed Karim:** YouTube
+    4. **Jeremy Stoppelman, Russel Simmons:** Yelp
+    5. **David Sacks:** Yammer
+    6. **Peter Thiel:** Palantir
+* Paypal didn't sort through resumes and find most "talented" people as their sole hiring strategy
+* Companies should strive to hire people that will have long-term prospects with each other even outside the firm
+* Do not outsource recruiting, it's a core competency for any company and people need to be cohesive after hiring
+* High-skilled employees have plenty of options, you must find reasons that distinguish your firm from others
+* Reasons often boil down to the company mission and the team seeking to carry it out, answers will vary by firm
+* Do not fight the perk war, you can't be the Google of today by that standard, but you can aim for Google of 1999
+* Everyone in a company should be different in the same way, early staff should be as personally similar as possible
+* Everyone should be especially focused on one particular thing, roles must be well-defined to reduce conflict
+* Startups are vulnerable to task conflict because roles are often more fluid, eliminate that competition
+* Cults are pure dedication, consulting firms are the opposite with no distinctive mission, startups closer to former
+* A cult is *wrong* about something crucial while people at a startup are *right* about a secret but important truth
+
+&nbsp;
+
+### 11. If You Build It, Will They Come?
+
+* Distribution matters, you can't expect to rely entirely on building a product that sells itself
+* US ad industry in 2014 had an annual revenue of $150 billion and employed over 600,000 people
+* US sales industry is even bigger at $450 billion and with 3.2 million employees, engineers skeptical of need
+* Engineers skeptical of advertising because they think it's irrational, but it matters because it works
+* Sales is less transparent than engineering, sales is about changing appearences but not underlying reality
+* Salesmen are actors focused on persuasion, we typically focus on the awkward obvious salesmen for bad rep
+* Sales works best when hidden, and most people involved have job titles that don't seem related to it
+* Path dependence: specific circumstances can lead to one product winning over another regardless of quality
+* Better sales and distribution can lead to monopoly even without product differentiation, but not vice versa
+* **Two metrics help shape effective distribution:** Customer Lifetime Value must exceed Customer Acquisition Cost
+* Complex sales (to big firms, governments, etc) can take months to make right relationships, infrequent (SpaceX)
+* With complex sales, salesmen are usually not a set role and someone such as the CEO 
