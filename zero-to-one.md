@@ -1,5 +1,4 @@
 # Zero to One
----
 
 NOTE: *You still need to read the book (likely more than once) to understand context of the bullet points in this document.*
 
@@ -9,13 +8,15 @@ In high school, I recall saying to myself that success - however broadly defined
 
 &nbsp;
 
-#### Preface:
+### Preface:
 
 * Copying == going from 1 to N
 * Innovation == going from 0 to 1
 * Doing something better < Doing something different
 * Technology allows us to do more with less
 * Every innovation is new/unique, so formula for success hard to pin down
+
+&nbsp;
 
 ### 1. The Challenge of the Future:
 
