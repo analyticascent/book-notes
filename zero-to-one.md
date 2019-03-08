@@ -1,4 +1,11 @@
 # Zero to One
+---
+
+NOTE: *You still need to read the book (likely more than once) to understand context of the bullet points in this document.*
+
+When it comes to books that have changed my entire world view about a particular topic, *Zero to One* tops the list when it comes to the intersection of business and technology. Lots of books have been written about startups. **But what makes *Zero to One* special in my view is that it better explains why the failure rate for startups is so high.**
+
+In high school, I recall saying to myself that success - however broadly defined - was generally the result of doing one or more of the following: **Doing something *better,* or doing something *different.*** The book in question has convinced me that the latter may be more important when it comes to creating true value in the world.
 
 &nbsp;
 
@@ -9,8 +16,6 @@
 * Doing something better < Doing something different
 * Technology allows us to do more with less
 * Every innovation is new/unique, so formula for success hard to pin down
-
-&nbsp;
 
 ### 1. The Challenge of the Future:
 
@@ -30,7 +35,6 @@
 * **Paypal growth strategy:** *Pay people noticable sum to sign up, tiny but ongoing transaction fees*
 * Dot-com bubble meant people left "clicks" and went back to "bricks" as investments - real estate bubble
 * **The real lessons the startup world should've learned:**
-
     1. Better to risk boldness than triviality
     2. Bad plan is better than no plan
     3. Competitive markets destroy profits
@@ -60,7 +64,7 @@
 ### 4. Ideology of Competition:
 
 * Ellison believed it was good to have an enemy that simply *appeared* threatening as an incentive
-* If you can't beat a rival, it may be better to merge with them altogether
+* If you can't beat a rival, it may be better to merge with them altogether, profit from distinction
 
 &nbsp;
 
@@ -112,7 +116,7 @@
 * Careful planning beats random chance, Steve Jobs skipped the "minimum viable product" entirely with Apple
 * Big companies often offer too much/too little when acquiring a startup and founder plans are a key reason
 * Founders sell company when they're out of ideas (overpaid), definite founders w/plans don't sell (underpaid)
-* *"Okay, guys, this is just a formality, it shouldn't take more than 10 minutes. **We're obviously not going to sell here.**"*
+* *"...this is just a formality, it shouldn't take more than 10 minutes. **We're obviously not going to sell here.**"*
 * **A startup is the largest endeavor over which you can have definite mastery. Reject chance, you are not a lottery ticket**
 
 &nbsp;
@@ -188,6 +192,7 @@
 
 &nbsp;
 
+
 ### 10. The Mechanics of Mafia:
 
 * Company culture should not be reducible to just the absurd perks that Silicon Valley firms are known for
@@ -198,6 +203,8 @@
     4. **Jeremy Stoppelman, Russel Simmons:** Yelp
     5. **David Sacks:** Yammer
     6. **Peter Thiel:** Palantir
+
+
 * Paypal didn't sort through resumes and find most "talented" people as their sole hiring strategy
 * Companies should strive to hire people that will have long-term prospects with each other even outside the firm
 * Do not outsource recruiting, it's a core competency for any company and people need to be cohesive after hiring
@@ -223,6 +230,91 @@
 * Sales works best when hidden, and most people involved have job titles that don't seem related to it
 * Path dependence: specific circumstances can lead to one product winning over another regardless of quality
 * Better sales and distribution can lead to monopoly even without product differentiation, but not vice versa
-* **Two metrics help shape effective distribution:** Customer Lifetime Value must exceed Customer Acquisition Cost
-* Complex sales (to big firms, governments, etc) can take months to make right relationships, infrequent (SpaceX)
-* With complex sales, salesmen are usually not a set role and someone such as the CEO 
+* **Two metrics help shape effective distribution:** Customer Lifetime Value **>** Customer Acquisition Cost
+* **Complex sales** (to big firms, governments, etc) can take months to make right relationships, infrequent (SpaceX)
+* With complex sales, salesmen are usually not a set role and someone such as the CEO communicates with clients
+* Must start with reference customers at smaller scale before approaching bigger clients
+* **Personal sales** bring the question of moving a product to an audience, often starting with niche users
+* Products themselves can be a form of distribution for a service, value increases with network effects (ZocDoc)
+* Deadzone between personal sales (salespeople needed) and advertising (no salespeople), can't talk to *every* client
+* **Advertisement** is best for low-cost goods with mass-appeal but lack methods for viral distribution
+* Such a thing only good for startups when CAC and CLV make other distribution channels too costly to pull off
+* **Virality** for distribution means each new customer for a product necessarily means multiple new customers too
+* PayPal started w/24 users (all employees) , paid customers for referrals: $20/user, 7% daily growth, 2x/10 days
+* Power law applies to distribution strategies/channels, most firms don't get any to work, poor sales not product
+* Selling company to media is necessary part of selling it to everyone else - including investors/employees
+
+&nbsp;
+
+### 12. Man and Machine:
+
+* Computers as complements to humans, most valuable firms will try to empower people rather than make them obsolete
+* Tech advancement isn't like globalization: people compete for jobs/resources, machines compete for neither
+* Trade gains biggest when big discrepancy exists in comparative advantage, entry-level workers don't fit this mold
+* Man and machine good at different things, intentionality with former and large scale data processing with latter
+* 2012, Google comp (16,000 CPUs) 75% accuracy identifying cats (ten million photos), worse than kid
+* New tech like comparatively hyperspecialized trading partner, don't have to compete with it for resources.
+* With PayPal fraud analysis, automated solutions worked *temporarily,* perps would catch on, adaptive enemy
+* Human analysts weren't as easily fooled, program rewritten to flag suspicious activity, human makes final call
+* Hybrid approach later led to founding of Palantir, focused on terrorist networks and financial fraud, FBI interest
+* LinkedIn also takes this hybrid approach, it doesn't try to completely replace recruiters in all respective tasks
+* Computer science too high a focus on trying to reduce human capabilities to tasks that can be replaced entirely
+* Computers find patterns that humans can't, weighing importance of patterns from different sources, etc not so
+* Indefinite fears about strong AI should not be used to justify making definite plans for the present and near future
+
+&nbsp;
+
+### 13. Seeing Green:
+
+* 21st century green bubble, over $50 billion poured into green startups, Solyndra noteworthy example of failed firm
+* **Most cleantech firms failed because they neglected one or more of the following:**
+    1. Engineering: *breakthrough not incremental*
+    2. Timing: *circumstances for market of firm*
+    3. Monopoly: *big share of small market*
+    4. People: *right team*
+    5. Distribution: *product delivery*
+    6. Durability: *future market dominance*
+    7. Secret: *opportunity others don't see*
+* Engineering breakthrough should be 10x, most cleantech never exceeded 2x, no big enough difference to end users
+* Solar was *not* like microprocessor industry, the latter advances exponentially while solar was more linear at best
+* Slow-moving markets are only worth entering if you have a plan to take it over, cleantech firms failed to do this
+* Energy markets are extremely huge, anyone who enters is going to face heavy competition, a need to differentiate
+* Solar market is a big pond, across countries, and to end users not that different from other energy sources
+* Most energy companies were not run by technical teams, primarily from suit/tie individuals, not outside the box
+* Cleantech places way too big a focus on rent-seeking instead of the actual customer base they claimed to be serving
+* One electric car company went out of business, they weren't unique (wasn't clear you were buying anything new)
+* None of the cleantech firms that went out of business took durability into account, esp two key competition sources
+* There were no major secrets with solar for any of the firms to distinguish themselves by, all had the same vision
+* "Social entrepreneurship" suffers from the problem of conflating *good for society* with *seen as* good for society
+* Doing something different is the most reliable way to achieve something good for society
+* **Tesla:** achieved all seven in a manner that other firms were unable to/didn't bother to duplicate:
+    1. Tech good enough that other firms rely on it (creating more market overall)
+    2. Tesla secured DoE loan when it was available and prior to the bubble bursting
+    3. Market was small (electric sports cars), easy to dominate and expand from
+    4. Team is both engineering-focused and good at marketing/sales
+    5. Tesla owns the entire distribution chain, control over customer experience
+    6. Durability of the company stems from head start + faster growth + strong brand
+    7. Tesla's secret was that cleantech needed a "look cool" imperative, not just intent
+* Cleantech bubble has many similarities with the dot com bubble (market growth, lack of distinction among firms)
+
+&nbsp;
+
+### 14. The Founder's Paradox:
+
+* It's more powerful, yet more dangerous for a firm to be run by a distinctive rather than interchangeable person
+* Most founders follow an inverse distribution, few are *average* in a particular trait or stay that way if they are
+* Founders are unusual in may ways to begin with, but also become more unusual in certain respects as time goes on
+* Founder "types" have been around even in myths, praised for prosperity but blamed for misfortune *[how prescient...]*
+* We worship and despise founders the same way we worship and despise celebrities
+* Steve Job's return to Apple after 12 years of "professional" mismanagement indicates value creation isn't simple formula
+* General lesson from successful firms: We need founders, and tolerance of founders who are strange or extreme
+* As afounder, you must understand your own power as an individual and do what you can to bring out the best in others
+
+&nbsp;
+
+### Conclusion: *Stagnation or Singularity?*
+
+* **Scenarios:** recurrent collapse, plateau, extinction, takeoff
+* Recurrent collapse unlike due to how widespread knowledge about civilization is
+* Extinction means there's no future to consider at all, but likelier than plateau for competitive reasons
+* Takeoff, or singularity, is the last of the four scenarios - it won't happen on it's own without going from 0 to 1
