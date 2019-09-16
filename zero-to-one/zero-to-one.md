@@ -2,6 +2,9 @@
 
 NOTE: *You still need to read the book (likely more than once) to understand context of the bullet points in this document.*
 
+*For a printer-friendly PDF of these notes, click here:* [https://tinyurl.com/zerotoonenotespdf](https://tinyurl.com/zerotoonenotespdf)
+
+
 When it comes to books that have changed my entire world view about a particular topic, *Zero to One* tops the list when it comes to the intersection of business and technology. Lots of books have been written about startups. **But what makes *Zero to One* special in my view is that it better explains why the failure rate for startups is so high.**
 
 In high school, I recall saying to myself that success - however broadly defined - was generally the result of doing one or more of the following: **Doing something *better,* or doing something *different.*** The book in question has convinced me that the latter may be more important when it comes to creating true value in the world.
